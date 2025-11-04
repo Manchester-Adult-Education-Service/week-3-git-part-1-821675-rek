@@ -5,6 +5,10 @@
 # 1. Write a short Python program using variables, input(), and print().
 # 2. Save your work with Git commands.
 
+name = input("What is your name?")
+age = int(input("How old are you?"))
+print(f"Hello {name}, next year you will be {age + 1}!")
+
 # ---------------------------
 # Step 1: Python Task
 # ---------------------------
@@ -59,3 +63,6 @@
 # ---------------------------
 # ✅ Done!
 # ---------------------------
+favourite_colour = input("What is your favourite colour?")
+favourite_food = input("What is your favourite food?")
+print(f"Hello {name}, next year you will be {age + 1} .your favourite colour is {favourite_colour} and you really like {favourite_food}")
