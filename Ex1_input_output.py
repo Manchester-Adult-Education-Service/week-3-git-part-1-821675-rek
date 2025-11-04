@@ -63,3 +63,6 @@ print(f"Hello {name}, next year you will be {age + 1}!")
 # ---------------------------
 # ✅ Done!
 # ---------------------------
+favourite_colour = input("What is your favourite colour?")
+favourite_food = input("What is your favourite food?")
+print(f"Hello {name}, next year you will be {age + 1} .your favourite colour is {favourite_colour} and you really like {favourite_food}")
